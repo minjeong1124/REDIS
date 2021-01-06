@@ -49,7 +49,6 @@ in memory 키 - 값 데이터 구조 스토어 (NoSQL DBMS 로 분류 되기도 
 
 2. properties (local)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d50cf2a-6065-4fa5-9cef-b66237debc0f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d50cf2a-6065-4fa5-9cef-b66237debc0f/Untitled.png)
 
 ```jsx
 ### Redis --------------------------------------------------------------------------------------------------------------------------------------------------------------------
